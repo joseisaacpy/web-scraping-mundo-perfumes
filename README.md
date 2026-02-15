@@ -35,6 +35,6 @@ Script de Web Scraping desenvolvido em Python utilizando Selenium e Pandas para 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/joseisaacpy/perfume-scraper.git
+git clone https://github.com/joseisaacpy/web-scraping-mundo-perfumes
 cd perfume-scraper
 ```
